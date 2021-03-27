@@ -58,11 +58,11 @@ THEN I will be logged out of the application and be redirected to the login page
 
 ## Preview of Contact Fox
 
-![Contact Fox Login Page](assets/images/contactFoxLoginPage.png)
+![Contact Fox Login Page](assets/images/Screenshot(3).png)
 
-![Contact Fox Register Page](assets/images/contactFoxRegisterPage.png)
+![Contact Fox Register Page](assets/images/Screenshot(21).png)
 
-![Contact Fox Dashboard Page](assets/images/contactFoxDashboardPage.png)
+![Contact Fox Dashboard Page](assets/images/Screenshot(22).png)
 
 ## Links
 
@@ -101,7 +101,7 @@ Listed below are the frameworks, libraries, and guides that made building this a
 - [Traversy Media Tutorials](https://www.traversymedia.com)
 
 ## License
-
+s
 The MIT License (MIT)
 
 Copyright (c) Dhanya Kunhikrishnan
