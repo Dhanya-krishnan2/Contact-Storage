@@ -58,11 +58,11 @@ THEN I will be logged out of the application and be redirected to the login page
 
 ## Preview of Contact Fox
 
-![Contact Fox Login Page](assets/images/Screenshot(3).png)
+![Contact Fox Login Page](assets/images/Screenshot (3).png)
 
-![Contact Fox Register Page](assets/images/Screenshot(21).png)
+![Contact Fox Register Page](assets/images/Screenshot (21).png)
 
-![Contact Fox Dashboard Page](assets/images/Screenshot(22).png)
+![Contact Fox Dashboard Page](assets/images/Screenshot (22).png)
 
 ## Links
 
